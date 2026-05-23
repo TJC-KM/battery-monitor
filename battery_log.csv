@@ -239,3 +239,8 @@ timestamp,percent,status,plugged_in,seconds_left,power_watts,kb_count,mouse_coun
 2026-05-23 14:14:02,92,charging,True,-1,0,0,0,0.74,0.12
 2026-05-23 14:15:02,93,charging,True,-1,0,0,0,0.21,0.11
 2026-05-23 14:16:02,93,charging,True,-1,0,0,0,0.27,0.13
+2026-05-23 14:17:02,94,charging,True,-1,0,0,0,0.08,0.11
+2026-05-23 14:18:02,94,charging,True,-1,0,0,0,0.07,0.1
+2026-05-23 14:19:02,94,charging,True,-1,0,0,0,0.07,0.28
+2026-05-23 14:20:02,95,charging,True,-1,0,0,0,0.06,2.59
+2026-05-23 14:21:02,95,charging,True,-1,0,0,0,0.05,0.07
