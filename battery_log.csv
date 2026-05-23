@@ -264,3 +264,8 @@ timestamp,percent,status,plugged_in,seconds_left,power_watts,kb_count,mouse_coun
 2026-05-23 14:39:02,93,discharging,False,36480,0,0,0,0.06,0.1
 2026-05-23 14:40:02,92,discharging,False,40078,0,0,0,0.08,0.19
 2026-05-23 14:41:02,92,discharging,False,42508,0,0,0,0.05,0.06
+2026-05-23 14:42:02,92,discharging,False,27817,0,1,0,0.1,0.23
+2026-05-23 14:43:02,92,discharging,False,40574,0,0,0,0.06,0.15
+2026-05-23 14:44:02,92,discharging,False,25106,0,1,0,0.11,0.08
+2026-05-23 14:45:02,92,discharging,False,26960,0,10,0,0.71,0.11
+2026-05-23 14:46:02,91,discharging,False,26028,0,1,0,0.11,0.07
